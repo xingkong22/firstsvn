@@ -7,5 +7,6 @@ public class Ta {
         int c = 3;
         int d = 4;
         //asdasdasd
+        int e = 5;
     }
 }
